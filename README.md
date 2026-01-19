@@ -7,6 +7,10 @@ A comprehensive, GPU-accelerated face recognition system with real-time detectio
 ![CUDA](https://img.shields.io/badge/CUDA-Supported-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+
+https://github.com/user-attachments/assets/1d09f519-b88b-4144-9a4a-5eb9cc9dbc20
+
+
 ---
 
 ## ✨ Features
@@ -280,3 +284,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub.
+
